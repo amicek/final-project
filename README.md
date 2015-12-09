@@ -1,1 +1,3 @@
 # final-project
+
+During the last five weeks I was working on a measuring robot for Interior designers. The most challenging was finding the right distance sensor. On my way I found four of them and none of them worked as I wanted them to. Writing the code in the processing was also very hard because I needed to use advanced math (trigonometry). I learned a lot about distance sensors and servo motors, I also learned that it's not easy to build something working while having a specific goal. Very useful was also watching other students projects so now I know who should I ask about some specific sensors and codes. 
